@@ -4,7 +4,7 @@
   | default @import url()
   |============================
 */
-@import url('./reset.css');
+/* @import url('./reset.css');
 @import url('./vite-promo.css');
 @import url('./header.css');
 
@@ -98,4 +98,13 @@ display: flex;
 flex-wrap: wrap;
 margin-right: 20px;
 gap: 20px;
-}
+} */
+ ul {
+  list-style-type: none;
+ }
+ /* mobile media */
+ .reviews-section {
+  width: 343px;
+height: 442px;
+ }
+ 
